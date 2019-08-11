@@ -1,5 +1,7 @@
 # meal-prep
 
+A simple meal app to learn Vue
+
 ## Project setup
 ```
 npm install
